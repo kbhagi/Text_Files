@@ -1,0 +1,6 @@
+C:\Projects\Text_Files\Text_Files\bin\Debug\Text_Files.exe.config
+C:\Projects\Text_Files\Text_Files\bin\Debug\Text_Files.exe
+C:\Projects\Text_Files\Text_Files\bin\Debug\Text_Files.pdb
+C:\Projects\Text_Files\Text_Files\obj\Debug\Text_Files.csprojResolveAssemblyReference.cache
+C:\Projects\Text_Files\Text_Files\obj\Debug\Text_Files.exe
+C:\Projects\Text_Files\Text_Files\obj\Debug\Text_Files.pdb
